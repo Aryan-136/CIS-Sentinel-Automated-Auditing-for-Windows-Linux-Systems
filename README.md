@@ -50,30 +50,30 @@ Here’s a detailed `README.md` file for the **CIS Sentinel: Automated Auditing 
 ## 📦 Installation Guide
 
 1. **Clone the Repository**:
-\`\`\`bash
-git clone https://github.com/yourusername/cis-sentinel.git
+\\\bash
+git clone [cis-sentinel](https://github.com/Aryan-136/CIS-Sentinel-Automated-Auditing-for-Windows-Linux-Systems/blob/main/README.md)
 cd cis-sentinel
-\`\`\`
+\\\
 
 2. **Install Dependencies**:
    - **Windows**: Ensure the latest version of PowerShell is installed.
    - **Linux**:
-\`\`\`bash
+\\\bash
 sudo apt update && sudo apt install -y bash python3
-\`\`\`
+\\\
 
 3. **Configuration**:
    - Customize the `config.yml` file to modify audit checks based on specific requirements.
 
 4. **Run the Audit**:
    - **Windows**:
-\`\`\`powershell
+\\\powershell
 ./audit_windows.ps1
-\`\`\`
+\\\
    - **Linux**:
-\`\`\`bash
+\\\bash
 sudo ./audit_linux.sh
-\`\`\`
+\\\
 
 ---
 
@@ -144,8 +144,4 @@ If you have any questions, suggestions, or encounter issues, feel free to reach 
 ---
 
 **Developed by Aryan Pandya And Team**  
-🔗 Connect with us on [LinkedIn](https://www.linkedin.com/in/aryanpandya/)
-
-EOF
-
-
+🔗 Connect with us on [LinkedIn](https://www.linkedin.com/in/aryanpandya/)EOF
