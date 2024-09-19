@@ -144,4 +144,4 @@ If you have any questions, suggestions, or encounter issues, feel free to reach 
 ---
 
 **Developed by Aryan Pandya And Team**  
-🔗 Connect with us on [LinkedIn](https://www.linkedin.com/in/aryanpandya/)EOF
+🔗 Connect with us on [LinkedIn](https://www.linkedin.com/in/aryanpandya/) EOF
